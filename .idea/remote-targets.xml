@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="soricrob@ritchie.ciirc.cvut.cz:22" type="ssh/sftp" uuid="7dc3b0f6-d1cf-46aa-a4e5-6bca085ba402">
+        <config>
+          <option name="projectRootOnTarget" value="/home/soricrob/esw_server_rust_rsoric" />
+          <option name="serverName" value="soricrob@ritchie.ciirc.cvut.cz:22 password" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
